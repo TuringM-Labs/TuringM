@@ -11,53 +11,53 @@
 
 Turing M is an AI collective data-driven event derivative financial ecosystem. Built on Web3 technology, it establishes a decentralized prediction market platform focusing on political/sports/entertainment multi-domain event prediction trading, breaking through traditional financial market limitations.
 
-![1.png](1.png)
+![1.png](./assets/1.png)
 
 ## Core Features
 
-![2.png](2.png)
+![2.png](./assets/2.png)
 
 1. **AI Data Driven**: Implements Model Context Protocol (MCP) to integrate collective data for real-time market probability calibration
 2. **Hybrid Trading Mechanism**: Supports multiple binary mutual-exclusive markets enabling complex strategies like hedging portfolios
 3. **Liquidity Innovation**: Provides 7x24 instant market access with up to 10x leveraged trading
 4. **Token Economy Loop**: TUIT token integration across trading/governance/staking scenarios forms demand growth flywheel
 
-![3.png](3.png)
+![3.png](./assets/3.png)
 
 ## Competitive Advantages
 
-![4.png](4.png)
+![4.png](./assets/4.png)
 
 1. **Prediction Accuracy**: 42% improvement in event analysis efficiency compared to competitors
 2. **User Incentives**: Includes token dividends (50% profit sharing) + prediction leaderboard + event proposal rewards
 3. **Compliance Assurance**: Smart contract auto-settlement + compensation fund (50% operational cost) + anti-manipulation algorithms
 4. **Community Co-creation**: Supports user-proposed event markets (proposers receive 1-3% transaction shares)
 
-![5.png](5.png)
+![5.png](./assets/5.png)
 
 ## Operational Benchmarks
 
-![6.png](6.png)
+![6.png](./assets/6.png)
 
 1. **Competitor Reference**: Polymarket achieved 292% MAU growth (30K → 314.5K) in 2024 with annual trading volume exceeding $9B
 2. **Revenue Structure**: Dual engine of transaction fees (2%) + outcome commissions (2%) targeting $120M first-year volume
 3. **Distribution Model**: 70% for market expansion (agent/KOL commissions), 30% for token buyback & burn
 
-![7.png](7.png)
+![7.png](./assets/7.png)
 
 ## Differentiation Innovations
 
-![8.png](8.png)
+![8.png](./assets/8.png)
 
 1. **Prediction+Derivatives**: Pioneers event option contracts supporting long/short positions
 2. **Social Trading**: Built-in opinion sharing/copy-trading system with planned DAO governance integration
 3. **Cross-Market Arbitrage**: Enables correlated trading strategies between real-world events and crypto market volatility
 
-![9.png](9.png)
+![9.png](./assets/9.png)
 
 ## Architecture
 
-![flow.jpg](flow.jpg)
+![flow.jpg](./assets/flow.jpg)
 
 ### Overview
 
@@ -174,9 +174,9 @@ Base fee rate (`baseFeeRate`) is written into order structure, corresponding to 
 - Buying 100 `A'` at $0.01:  
   0.01 * min(0.01, 0.99) * 100 = 0.01 (deduct 1 `A'` as fee)
 
-![10.png](10.png)
+![10.png](./assets/10.png)
 
-![11.png](11.png)
+![11.png](./assets/11.png)
 
 
 ## Team Information
