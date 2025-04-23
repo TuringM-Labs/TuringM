@@ -4,7 +4,7 @@
 
 * Dapp: https://juchain-stg.turingma.com/
 * Contract Deployment: https://testnet.juscan.io/address/0x3eE11F46Da0bC5147ad1D9FA0e8dB5c8a885Cd18
-* Demo Video: TBD
+* Demo Video: https://youtu.be/2YtKLSbh8NQ
 * Pitch Deck: TBD
 
 ## Introduction
