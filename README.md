@@ -182,7 +182,7 @@ Base fee rate (`baseFeeRate`) is written into order structure, corresponding to 
 ## Team Information
 
 - **Jesse** CEO 10+ years SaaS software market expansion experience
-- **Simon** Investment Director Years of Crypto market investment experience
+- **RechRed** Investment Director Years of Crypto market investment experience
 - **Sam** Chief Talent Officer
 - **David** CTO Years of CEX architecture experience, delivered multiple CEX projects
 - **George** CPO 10+ years internet financial product leadership experience
