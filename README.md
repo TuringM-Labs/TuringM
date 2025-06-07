@@ -16,6 +16,8 @@ Turing M is an AI collective data-driven event derivative financial ecosystem. B
 * Pitch Video: https://x.com/Turingmarket/status/1930945177381982507
 * Pitch Deck: https://github.com/TuringM-Labs/jutopia2025/blob/main/TuringM-v3.4.pdf
 * X: https://x.com/turingmarket
+* Smart Contract code: https://github.com/TuringM-Labs/jutopia2025/
+
 
 ![1.png](./assets/1.png)
 
