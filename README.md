@@ -6,6 +6,7 @@ Turing M is an AI collective data-driven event derivative financial ecosystem. B
 
 ## Links
 
+* White Paper && Docs: https://docs-zh.turingm.io/
 * testnet airdrop: https://avax-test-airdrop.turingmarket.cc/
 * Dapp: https://avax-test.turingmarket.cc/
 * Contract Deployment: 
