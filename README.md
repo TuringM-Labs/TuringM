@@ -9,6 +9,7 @@ Turing M is an AI collective data-driven event derivative financial ecosystem. B
 * White Paper && Docs: https://docs-zh.turingm.io/
 * Insights: https://insights.turingmarket.cc/
 * X: https://twitter.com/turingmarket
+* Full Smart Contract Audit: https://github.com/TuringM-Labs/TuringM-EIP2535
 * testnet demo:
   * BSC testnet
     * DApp: https://bnb-test.turingmarket.cc/
