@@ -5,7 +5,10 @@
 Turing M is an AI collective data-driven event derivative financial ecosystem. Built on Web3 technology, it establishes a decentralized prediction market platform focusing on political/sports/entertainment multi-domain event prediction trading, breaking through traditional financial market limitations.
 
 ## Links
+* Website: https://TuringM.IO/
 * White Paper && Docs: https://docs-zh.turingm.io/
+* Insights: https://insights.turingmarket.cc/
+* X: https://twitter.com/turingmarket
 * testnet demo:
   * BSC testnet
     * DApp: https://bnb-test.turingmarket.cc/
